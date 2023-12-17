@@ -1,6 +1,6 @@
 {
-  "name": "react-native-awesomelibrary",
-  "version": "0.1.0",
+  "name": "react-native-awesomelibrarycpp",
+  "version": "0.1.2",
   "description": "Testing",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
